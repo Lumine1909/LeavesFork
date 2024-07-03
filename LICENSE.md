@@ -15,5 +15,4 @@ The authors listed below have chosen to release their code under that more permi
 should submit a pull request to this project to add their name.
 
 ```text
-LittleChest <hiya@littlew.top>
 ```
